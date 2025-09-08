@@ -23,5 +23,5 @@ I'm a driven Computer Science undergraduate at **VIT Bhopal University** with a 
 
 ### 📫 How to reach me:
 
-* **Email:** [kavyanshofficial04@gmail.com](mailto:kavyanshofficial04@gmail.com)
-* **LinkedIn:** [linkedin.com/in/kavyansh-vats-452109300/](https://linkedin.com/in/kavyansh-vats-452109300/)
+* **Email:** [Link to gmail](mailto:kavyanshofficial04@gmail.com)
+* **LinkedIn:** [Link to profile](https://linkedin.com/in/kavyansh-vats-452109300/)
